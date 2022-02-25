@@ -15,6 +15,8 @@ The presented implementation lacks the following:
 
 Despite the fact that it this code is in very early stage and needs thorough code refinement and addition of lacking features, it will be foundation for tutorial in the topic of using Pennylane with Pytorch for quantum-classical neural networks. Work is still in progress.
 
+NOTE: The file with data must be in the same folder where the 'quantum-wgan.py' script is located. Used data are available at https://www.kaggle.com/mlg-ulb/creditcardfraud. In order to not upload large files to the repo they were not included.
+
 Resources:
 https://arxiv.org/abs/2010.10492
 https://pennylane.ai/qml/demos/tutorial_quantum_gans.html
