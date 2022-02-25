@@ -19,5 +19,7 @@ NOTE: The file with data must be in the same folder where the 'quantum-wgan.py' 
 
 Resources:
 https://arxiv.org/abs/2010.10492
+
 https://pennylane.ai/qml/demos/tutorial_quantum_gans.html
+
 https://arxiv.org/abs/1406.2661
