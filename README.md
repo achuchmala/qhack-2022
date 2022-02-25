@@ -18,6 +18,7 @@ Despite the fact that it this code is in very early stage and needs thorough cod
 NOTE: The file with data must be in the same folder where the 'quantum-wgan.py' script is located. Used data are available at https://www.kaggle.com/mlg-ulb/creditcardfraud. In order to not upload large files to the repo they were not included.
 
 Resources:
+
 https://arxiv.org/abs/2010.10492
 
 https://pennylane.ai/qml/demos/tutorial_quantum_gans.html
